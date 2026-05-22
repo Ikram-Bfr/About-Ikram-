@@ -1,5 +1,5 @@
 # About Ikram-
-<h1 align="center">Hi 👋, I'm Ikram Benfarhat</h1>
+<h1 align="center">Hi 👋, I'm Ikram </h1>
 
 <p align="center">
 Cybersecurity • EV Charging Security • Intelligent Transportation Systems • Reinforcement Learning • Wireless Communication
